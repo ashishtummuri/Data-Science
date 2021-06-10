@@ -1,0 +1,11 @@
+company ,esp,price,quantity,owner
+google,50,200,10000,larry page
+fb,60,250,20000,mark
+microsoft,70,300,30000,bill gates
+tesla,80,400,40000,musk
+ashish,90,400,50000,
+shjushi,-99999,400,50000,fref
+axs,1,400,50000,max
+asca,2,-99999,50000,rf
+afr,3,-99999,50000,d
+vre,-99999,23,-99999,as
